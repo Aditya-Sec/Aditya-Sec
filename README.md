@@ -53,7 +53,9 @@
 ---
 
 ### 🧠 Fun Fact
-> I love reverse-engineering phishing emails and investigating cloud logs — and I’m working on turning this into automated detection scripts 🔍
+I used to chase threats — now I’m learning to create them (responsibly 😉). Blue ➡️ Red in progress!
+I speak fluent log files... and I’m learning how to break the systems I used to protect 🧑‍💻🕵️‍♂️
+
 
 ---
 
