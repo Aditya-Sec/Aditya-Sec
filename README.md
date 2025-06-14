@@ -1,12 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Yash</h1>
-<h3 align="center">Cybersecurity Enthusiast | Blue Team Engineer | Learner of Red Team Techniques</h3>
+<h1 align="center">Hi there 👋, I'm Aditya</h1>
+<h3 align="center">Cybersecurity Enthusiast | Blue Team Engineer | Learner of Red Team Techniques | Gold Medalist |</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 💼 Currently working as an **Associate SOC Engineer** in an MNC  
-- 🎓 Pursuing **MSc in Cybersecurity**   
+- 🎓 Pursuing **MSc in Cybersecurity**  
+- 🥇 Awarded **Gold Medal** in **BSc Forensic Science** with specialization in **Cyber Forensics**   
 - 🔐 1.5+ years of hands-on experience in SOC operations, WAF handling, threat monitoring, Cloud security  
 - 🌱 Expanding into **Red Teaming, VAPT, WAF, and Compliance Audits**  
 - 💡 Passionate about **threat detection, incident response, and security automation**
