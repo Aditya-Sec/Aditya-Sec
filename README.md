@@ -47,7 +47,7 @@
 ### 📫 Let's Connect
 
 - [🔗 LinkedIn]( www.linkedin.com/in/aditya-kumar-goswami)
-- [🌐 Portfolio](https://yourwebsite.com) (Coming Soon)
+- [🌐 Portfolio](https://aditya-sec.github.io/portfolio/)
 - 📧 Email: akgoswami185@gmail.com
 
 ---
