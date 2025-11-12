@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Aditya-Sec/Aditya-Sec/blob/main/assets/banner.png" alt="Aditya Goswami Cybersecurity Banner" width="100%">
+</p>
+
 # 👋 Hi there, I'm Aditya Kumar Goswami
 
 🎯 **Cybersecurity Professional | SOC Engineer | Blue & Red Team Enthusiast | Gold Medalist | CEH Prep**
