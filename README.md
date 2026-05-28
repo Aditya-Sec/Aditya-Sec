@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aditya Kumar Goswami
 
-🎯 **Cybersecurity Professional | SOC Engineer | Blue & Red Team Enthusiast | Gold Medalist | 
+🎯 Cybersecurity Professional | SOC Engineer | Blue & Red Team Enthusiast | Gold Medalist | 
 
 ---
 
