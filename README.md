@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Aditya Kumar Goswami
 
-🎯 **Cybersecurity Professional | SOC Engineer | Blue & Red Team Enthusiast | Gold Medalist | CEH Prep**
+🎯 **Cybersecurity Professional | SOC Engineer | Blue & Red Team Enthusiast | Gold Medalist | 
 
 ---
 
 ## 💼 About Me
-I’m an **Associate SOC Engineer** at *Investis Digital Pvt. Ltd.*, with over **1.5 years of hands-on experience** in **Security Operations, Threat Detection, and Cloud Security**.  
+I’m an **Associate SOC Engineer** at *Investis Digital Pvt. Ltd.*, with over **2+ years of hands-on experience** in **Security Operations, Threat Detection, and Cloud Security**.  
 and expanding my expertise across **offensive and defensive security domains**.
 
 🧠 My approach blends the mindset of a defender with the curiosity of an attacker — I build, break, and secure systems to strengthen cyber resilience.
