@@ -58,13 +58,14 @@ Every number above is drawn directly from real SOC work at Investis Digital and 
 
 | # | Project | What it answers |
 |:---:|---|---|
-| 01 | [SOC-Lab-Open-Source-Setup](https://github.com/Aditya-Sec/SOC-Lab-Open-Source-Setup) | Can a full detection-and-response pipeline be built entirely on open-source tooling, end to end? |
-| 02 | [ReconVeritas](https://github.com/Aditya-Sec/ReconVeritas-Automated-Recon-Tool) | How much of manual recon can be safely automated into one modular workflow? |
-| 03 | [SOC-Incident-Case-Study](https://github.com/Aditya-Sec/SOC-Incident-Case-Study) | What does a real incident look like end-to-end — detection, response, and the lesson learned? |
-| 04 | [RedTeam-WAF-Detection-Bypass-Lab](https://github.com/Aditya-Sec/RedTeam-WAF-Detection-Bypass-Lab) | If I were attacking my own detections, where would they break? |
-| 05 | [Kibana-SIEM-Dashboard-Demo](https://github.com/Aditya-Sec/Kibana-SIEM-Dashboard-Demo) | What does a correlation rule look like from raw log to dashboard alert? |
-| 06 | [SOC-Alert-Notifier](https://github.com/Aditya-Sec/SOC-Alert-Notifier) | Can alert routing be automated without losing the analyst's judgment in the loop? |
-| 07 | [Wireshark-HTTP-Credential-Capture](https://github.com/Aditya-Sec/Wireshark-HTTP-Credential-Capture) | What does an attacker actually see on unencrypted traffic — hands-on, not theoretical? |
+| 01 | [Sentinel-Detection-Response-Pack](https://github.com/Aditya-Sec/Sentinel-Detection-Response-Pack) | Can six ATT&CK-mapped detections, two SOAR playbooks, and a cloud posture check ship as deployable code, not a lab screenshot? |
+| 02 | [SOC-Lab-Open-Source-Setup](https://github.com/Aditya-Sec/SOC-Lab-Open-Source-Setup) | Can a full detection-and-response pipeline be built entirely on open-source tooling, end to end? |
+| 03 | [ReconVeritas](https://github.com/Aditya-Sec/ReconVeritas-Automated-Recon-Tool) | How much of manual recon can be safely automated into one modular workflow? |
+| 04 | [SOC-Incident-Case-Study](https://github.com/Aditya-Sec/SOC-Incident-Case-Study) | What does a real incident look like end-to-end — detection, response, and the lesson learned? |
+| 05 | [RedTeam-WAF-Detection-Bypass-Lab](https://github.com/Aditya-Sec/RedTeam-WAF-Detection-Bypass-Lab) | If I were attacking my own detections, where would they break? |
+| 06 | [Kibana-SIEM-Dashboard-Demo](https://github.com/Aditya-Sec/Kibana-SIEM-Dashboard-Demo) | What does a correlation rule look like from raw log to dashboard alert? |
+| 07 | [SOC-Alert-Notifier](https://github.com/Aditya-Sec/SOC-Alert-Notifier) | Can alert routing be automated without losing the analyst's judgment in the loop? |
+| 08 | [Wireshark-HTTP-Credential-Capture](https://github.com/Aditya-Sec/Wireshark-HTTP-Credential-Capture) | What does an attacker actually see on unencrypted traffic — hands-on, not theoretical? |
 
 <br/>
 
