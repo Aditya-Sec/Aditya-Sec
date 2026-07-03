@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="700" viewBox="0 0 500 700">
+  <defs>
+    <style>.mono{font-family:'SFMono-Regular',Consolas,Menlo,monospace;}</style>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#10151a"/>
+      <stop offset="100%" stop-color="#0a0d10"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4dd4e8"/>
+      <stop offset="100%" stop-color="#1c5f6e"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="492" height="692" rx="18" fill="url(#border)"/>
+  <rect x="10" y="10" width="480" height="680" rx="14" fill="url(#cardbg)"/>
+
+  <!-- rarity -->
+  <text x="250" y="48" text-anchor="middle" class="mono" font-size="13" letter-spacing="3" fill="#4dd4e8">★ ★ ★ ★ ★  LEGENDARY</text>
+  <text x="250" y="78" text-anchor="middle" class="mono" font-size="20" font-weight="700" fill="#eef2f4" letter-spacing="2">SOC ENGINEER</text>
+
+  <!-- avatar circle -->
+  <circle cx="250" cy="175" r="70" fill="#0d1012" stroke="#4dd4e8" stroke-width="2"/>
+  <text x="250" y="192" text-anchor="middle" class="mono" font-size="42" font-weight="700" fill="#eef2f4">AK</text>
+
+  <text x="250" y="272" text-anchor="middle" class="mono" font-size="22" font-weight="700" fill="#eef2f4">Aditya Kumar Goswami</text>
+  <text x="250" y="296" text-anchor="middle" class="mono" font-size="13" fill="#9aa3ab">Associate SOC Engineer · AI-Augmented Blue Team</text>
+
+  <!-- stat rows -->
+  <g class="mono" font-size="14">
+    <rect x="40" y="325" width="420" height="1" fill="#1c2226"/>
+
+    <text x="55" y="358" fill="#9aa3ab">DETECTION</text>
+    <rect x="220" y="346" width="225" height="10" rx="5" fill="#1c2226"/>
+    <rect x="220" y="346" width="200" height="10" rx="5" fill="#4dd4e8"/>
+
+    <text x="55" y="388" fill="#9aa3ab">FORENSICS</text>
+    <rect x="220" y="376" width="225" height="10" rx="5" fill="#1c2226"/>
+    <rect x="220" y="376" width="180" height="10" rx="5" fill="#4dd4e8"/>
+
+    <text x="55" y="418" fill="#9aa3ab">AI OPS</text>
+    <rect x="220" y="406" width="225" height="10" rx="5" fill="#1c2226"/>
+    <rect x="220" y="406" width="190" height="10" rx="5" fill="#4dd4e8"/>
+
+    <text x="55" y="448" fill="#9aa3ab">CLOUD SEC</text>
+    <rect x="220" y="436" width="225" height="10" rx="5" fill="#1c2226"/>
+    <rect x="220" y="436" width="170" height="10" rx="5" fill="#4dd4e8"/>
+
+    <rect x="40" y="470" width="420" height="1" fill="#1c2226"/>
+  </g>
+
+  <!-- headline stats -->
+  <g class="mono" text-anchor="middle">
+    <text x="130" y="530" font-size="26" font-weight="700" fill="#4dd4e8">9.47</text>
+    <text x="130" y="550" font-size="11" fill="#9aa3ab">CGPA GOLD MEDAL</text>
+
+    <text x="250" y="530" font-size="26" font-weight="700" fill="#4dd4e8">40+</text>
+    <text x="250" y="550" font-size="11" fill="#9aa3ab">CERTIFICATIONS</text>
+
+    <text x="370" y="530" font-size="26" font-weight="700" fill="#4dd4e8">10K+</text>
+    <text x="370" y="550" font-size="11" fill="#9aa3ab">ALERTS TRIAGED</text>
+  </g>
+
+  <rect x="40" y="580" width="420" height="1" fill="#1c2226"/>
+
+  <text x="250" y="620" text-anchor="middle" class="mono" font-size="12" fill="#5a6169">18min MTTD · 30% FP reduction · Top 1% THM</text>
+  <text x="250" y="660" text-anchor="middle" class="mono" font-size="11" fill="#3a3f44">github.com/Aditya-Sec</text>
+</svg>
