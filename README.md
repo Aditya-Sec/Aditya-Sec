@@ -1,109 +1,109 @@
-# 👋 Hi there, I'm Aditya Kumar Goswami
+<div align="center">
+  <img src="assets/banner.svg" alt="Aditya Goswami — Security Operations Engineer" width="100%"/>
+</div>
 
-🎯 Cybersecurity Professional | SOC Engineer | Blue & Red Team Enthusiast | Gold Medalist | 
+<br/>
 
----
+<!--
+  EDIT THIS BLOCK YOURSELF — this is the most important paragraph on the whole page.
+  Replace it with your actual point of view in your own words.
+-->
+> Most SOC dashboards are built to look busy, not to catch anything. I care more about the ten log lines that actually mattered than the thousand that didn't.
 
-## 💼 About Me
-I’m an **Associate SOC Engineer** at *Investis Digital Pvt. Ltd.*, with over **2+ years of hands-on experience** in **Security Operations, Threat Detection, and Cloud Security**.  
-and expanding my expertise across **offensive and defensive security domains**.
+<br/>
 
-🧠 My approach blends the mindset of a defender with the curiosity of an attacker — I build, break, and secure systems to strengthen cyber resilience.
+## 01 — What I Do
 
----
+Associate SOC Engineer, based in Vadodara, India. I work in the space between an alert firing and someone actually understanding what happened — triage, correlation, and turning raw noise into a decision someone can act on.
 
-## 🛠️ Technical Expertise
+<br/>
 
-### 🧩 **Blue Team & Defensive Security**
-- SIEM Platforms: **Wazuh**, **Elastic Stack (ELK)**, **Sumo Logic**, **Splunk**, **Symantec**, **ManageEngine**, **ThreatLocker**
-- Threat Detection & Incident Response: Log analysis, correlation, MITRE ATT&CK mapping, alert automation  
-- Cloud & Infra Security: **AWS**, **Cloudflare**, **Akamai**, **Site24x7**, **Pingdom**
-- Security Automation: **Filebeat**, **Logstash**, **Slack Alerts**, **Regex-based parsing**
+## 02 — By the Numbers
 
-### 🕵️ **Red Team & Offensive Learning**
-- Recon & Scanning: **Nmap**, **ReconVeritas**, **Nikto**, **OWASP ZAP**, **Burp Suite**
-- WAF Evasion & Web App Testing: Manual & automated techniques
-- Network Forensics: **Wireshark**, packet analysis, credential sniffing
+<div align="center">
 
-### 🧰 **Languages & Tools**
-- **Python (Automation, Recon Scripts)**
-- **Bash, Git, Regex**
-- **Linux (Kali, Ubuntu)**, **Windows Server**
+| 02+ | 40+ | 01 | 07 |
+|:---:|:---:|:---:|:---:|
+| Years hands-on SOC ops | Certifications — SOC · VAPT · DFIR · GRC · Cloud | Gold Medal — Cyber Forensics (BSc) | Public projects, all independently built |
 
----
+</div>
 
-## 🚀 Featured Projects
+**Education:** MSc Cybersecurity · BSc Forensic Science (Cyber Forensic specialization, Gold Medal)
 
-### 🧠 [SOC-Lab-Open-Source-Setup](https://github.com/Aditya-Sec/SOC-Lab-Open-Source-Setup)
-> **Full-scale Open-Source SOC Environment** integrating Wazuh, Suricata, Kibana, Filebeat, TheHive, Cortex, MISP, and Grafana.  
-> Includes real-time threat detection, visualization, and alerting pipelines.
+<br/>
 
----
+## 03 — Stack
 
-### ⚡ [SOC-Alert-Notifier](https://github.com/Aditya-Sec/SOC-Alert-Notifier)
-> Automated **alert notification system** for SOC environments using Wazuh, Filebeat, and Slack API.  
-> Demonstrates **real-time alert routing** and **incident response automation**.
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-0d1012?style=flat-square&logo=python&logoColor=4dd4e8&labelColor=0d1012)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1012?style=flat-square&logo=powershell&logoColor=4dd4e8&labelColor=0d1012)
+![Bash](https://img.shields.io/badge/Bash-0d1012?style=flat-square&logo=gnubash&logoColor=4dd4e8&labelColor=0d1012)
+![AWS](https://img.shields.io/badge/AWS-0d1012?style=flat-square&logo=amazonaws&logoColor=4dd4e8&labelColor=0d1012)
+![Docker](https://img.shields.io/badge/Docker-0d1012?style=flat-square&logo=docker&logoColor=4dd4e8&labelColor=0d1012)
+![Linux](https://img.shields.io/badge/Linux-0d1012?style=flat-square&logo=linux&logoColor=4dd4e8&labelColor=0d1012)
+![Elastic](https://img.shields.io/badge/Elastic%20Stack-0d1012?style=flat-square&logo=elastic&logoColor=4dd4e8&labelColor=0d1012)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-0d1012?style=flat-square&logo=mitre&logoColor=4dd4e8&labelColor=0d1012)
 
-### 🔍 [ReconVeritas - Automated Recon Tool](https://github.com/Aditya-Sec/ReconVeritas-Automated-Recon-Tool)
-> A Python-based **automated reconnaissance framework** for penetration testers and red teamers.  
-> Combines top recon tools and APIs into a single modular workflow.
+</div>
 
----
+<br/>
 
-### 🔒 [RedTeam-WAF-Detection-Bypass-Lab](https://github.com/Aditya-Sec/RedTeam-WAF-Detection-Bypass-Lab)
-> Hands-on red team project exploring **WAF detection and bypass techniques**, **payload crafting**, and **web application security**.
+## 04 — Projects
 
----
+Each of these was built to answer a specific question I had, not to pad a list.
 
-### 📈 [Kibana-SIEM-Dashboard-Demo](https://github.com/Aditya-Sec/Kibana-SIEM-Dashboard-Demo)
-> Demonstrates **brute-force attack detection** using Kibana dashboards and Linux system logs.  
-> Ideal for explaining SOC correlation rules during interviews.
+| # | Project | What it answers |
+|:---:|---|---|
+| 01 | [SOC-Lab-Open-Source-Setup](https://github.com/Aditya-Sec/SOC-Lab-Open-Source-Setup) | Can a full detection-and-response pipeline be built entirely on open-source tooling, end to end? |
+| 02 | [ReconVeritas](https://github.com/Aditya-Sec/ReconVeritas-Automated-Recon-Tool) | How much of manual recon can be safely automated into one modular workflow? |
+| 03 | [SOC-Incident-Case-Study](https://github.com/Aditya-Sec/SOC-Incident-Case-Study) | What does a real incident look like end-to-end — detection, response, and the lesson learned? |
+| 04 | [RedTeam-WAF-Detection-Bypass-Lab](https://github.com/Aditya-Sec/RedTeam-WAF-Detection-Bypass-Lab) | If I were attacking my own detections, where would they break? |
+| 05 | [Kibana-SIEM-Dashboard-Demo](https://github.com/Aditya-Sec/Kibana-SIEM-Dashboard-Demo) | What does a correlation rule look like from raw log to dashboard alert? |
+| 06 | [SOC-Alert-Notifier](https://github.com/Aditya-Sec/SOC-Alert-Notifier) | Can alert routing be automated without losing the analyst's judgment in the loop? |
+| 07 | [Wireshark-HTTP-Credential-Capture](https://github.com/Aditya-Sec/Wireshark-HTTP-Credential-Capture) | What does an attacker actually see on unencrypted traffic — hands-on, not theoretical? |
 
----
+<br/>
 
-### 🧾 [SOC-Incident-Case-Study](https://github.com/Aditya-Sec/SOC-Incident-Case-Study)
-> Collection of **real-world SOC incident reports** on phishing, brute-force, DNS anomalies, and AWS alerts.  
-> Includes detailed **IR workflows**, **MITRE ATT&CK mapping**, and **lessons learned**.
+## 05 — Currently
 
----
+<!--INVESTIGATING:START-->
+🔎 Nothing set yet — trigger the `update-investigating` workflow to set this line.
+<!--INVESTIGATING:END-->
 
-## 🏆 Achievements & Certifications
-- 🥇 **Gold Medalist** – BSc in Forensic Science (Cyber Forensics Specialization)  
-- 💼 **Associate SOC Engineer**, Investis Digital Pvt. Ltd.  
-- 📘 **CEH (Certified Ethical Hacker) – In Progress**
-- ☁️ **AWS Cloud Practitioner (Certified)**
+<br/>
 
----
+## 06 — Field Note
 
-## 🎯 Career Goals
-- Targeting roles in **SOC Analysis, Threat Hunting, Security Engineering, or Penetration Testing**
-- Building a **personal SOC & Red Team portfolio** with open-source tools and automation scripts
-- Long-term goal: Advance into **Detection Engineering** and **Security Architecture**
+<!--CVE:START-->
+_Not yet populated — runs on first scheduled workflow execution._
+<!--CVE:END-->
 
----
+<br/>
 
-## 🌐 Connect with Me
-🔗 **LinkedIn:** [linkedin.com/in/adityagoswami-sec](https://linkedin.com/in/adityagoswami-sec)  
-🌍 **Portfolio:** [aditya-goswami.github.io](https://aditya-goswami.github.io)  
-📧 **Email:** akgoswami185@gmail.com  
+## 07 — Latest Writing
 
----
+<!--BLOG-POST-LIST:START-->
+_Not yet populated — will populate automatically once your Medium RSS feed has posts._
+<!--BLOG-POST-LIST:END-->
 
-## 🧠 Fun Fact
-> I used to chase threats — now I create them responsibly.  
-> Fluent in **log files**, curious about **attack chains**, and obsessed with **blue-red synergy** 🔵🔴
+<br/>
 
----
+## 08 — Activity
 
-### 📊 GitHub Stats
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Sec&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Sec&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Sec&theme=github-compact&hide_border=true&bg_color=0d1012&color=4dd4e8&line=4dd4e8&point=eef2f4" width="100%"/>
+</div>
 
----
+<br/>
 
-### 🏷️ Badges
-![Profile views](https://komarev.com/ghpvc/?username=Aditya-Sec&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/Aditya-Sec?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Aditya-Sec?style=social)
+## 09 — Elsewhere
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1012?style=flat-square&logo=linkedin&logoColor=4dd4e8&labelColor=0d1012)](https://www.linkedin.com/in/aditya-kumar-goswami)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1012?style=flat-square&logo=googlechrome&logoColor=4dd4e8&labelColor=0d1012)](https://aditya-sec.github.io/portfolio/)
+[![Medium](https://img.shields.io/badge/Medium-0d1012?style=flat-square&logo=medium&logoColor=4dd4e8&labelColor=0d1012)](#)
+
+</div>
+

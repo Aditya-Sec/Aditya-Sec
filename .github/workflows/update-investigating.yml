@@ -1,0 +1,48 @@
+name: Update "Currently" line
+
+# Run this manually from the Actions tab whenever you want to change what
+# you're working on — no need to edit the README by hand or commit yourself.
+# Actions tab → "Update Currently line" → Run workflow → type your line → Run.
+
+on:
+  workflow_dispatch:
+    inputs:
+      note:
+        description: "What are you currently investigating / building / reading?"
+        required: true
+        type: string
+
+jobs:
+  update-currently:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          python3 - <<'EOF'
+          import re
+
+          note = """${{ inputs.note }}"""
+          start, end = "<!--INVESTIGATING:START-->", "<!--INVESTIGATING:END-->"
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          pattern = re.compile(re.escape(start) + r".*?" + re.escape(end), re.DOTALL)
+          replacement = f"{start}\n🔎 {note}\n{end}"
+          content = pattern.sub(replacement, content)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update currently line"
+          git push

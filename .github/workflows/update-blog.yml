@@ -1,0 +1,19 @@
+name: Update latest blog posts
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Replace YOUR_USERNAME once your Medium account exists.
+          # Medium RSS format: https://medium.com/feed/@YOUR_USERNAME
+          feed_list: "https://medium.com/feed/@YOUR_USERNAME"
+          max_post_count: 3
+          template: "- [$title]($url) — $newline"
