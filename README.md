@@ -76,7 +76,8 @@ Each of these was built to answer a specific question I had, not to pad a list.
 ## 06 — Field Note
 
 <!--CVE:START-->
-_Not yet populated — runs on first scheduled workflow execution._
+🛰️ **CVE-2026-53914** — In JetBrains Kotlin before 2.4.20 code execution was possible via unsafe deserialization in the build cache metadata  
+[Details](https://nvd.nist.gov/vuln/detail/CVE-2026-53914)
 <!--CVE:END-->
 
 <br/>
