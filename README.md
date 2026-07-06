@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Aditya Goswami — Security Operations Engineer" width="100%"/>
+  <img src="assets/banner_v2.svg" alt="Aditya Goswami — Security Operations Engineer" width="100%"/>
 </div>
 
 <br/>
@@ -121,6 +121,18 @@ _Not yet populated — will populate automatically once your Medium RSS feed has
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Sec&theme=github-compact&hide_border=true&bg_color=0d1012&color=4dd4e8&line=4dd4e8&point=eef2f4" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditya-Sec&show_icons=true&hide_border=true&bg_color=0d1012&title_color=4dd4e8&icon_color=4dd4e8&text_color=9aa3ab&hide=prs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Sec&layout=compact&hide_border=true&bg_color=0d1012&title_color=4dd4e8&text_color=9aa3ab&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/Aditya-Sec/Sentinel-Detection-Response-Pack?style=flat-square&label=Sentinel%20Pack%20last%20commit&color=4dd4e8&labelColor=0d1012"/>
+  <img src="https://img.shields.io/github/stars/Aditya-Sec/Sentinel-Detection-Response-Pack?style=flat-square&label=stars&color=4dd4e8&labelColor=0d1012"/>
 </div>
 
 <br/>
