@@ -103,8 +103,8 @@ A shareable snapshot, built for LinkedIn, not a filing cabinet.
 ## 08 — Field Note
 
 <!--CVE:START-->
-🛰️ **CVE-2026-53914** — JetBrains Kotlin before 2.4.20 allowed code execution via unsafe deserialization in build cache metadata.
-[Details](https://nvd.nist.gov/vuln/detail/CVE-2026-53914)
+🛰️ **CVE-2026-56290** — The Joomla extension Page Builder CK is vulnerable to an unauthenticated arbitrary file upload that allows uploading executable files and leads to full RCE.  
+[Details](https://nvd.nist.gov/vuln/detail/CVE-2026-56290)
 <!--CVE:END-->
 
 <br/>
