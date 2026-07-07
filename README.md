@@ -79,45 +79,8 @@ A shareable snapshot, built for LinkedIn, not a filing cabinet.
 
 <br/>
 
-## 06 — What Colleagues Say
 
-> "He consistently goes beyond alert triage — correlating weak signals across sources and explaining findings clearly to non-technical stakeholders. Rare at his experience level."
-> — Senior Manager, SOC, Investis Digital
-
-> "He applies AI tools practically in SOC workflows — automation that saved the team hours weekly, and detection rules that measurably cut false positives."
-> — Team Lead, Security Engineering, Investis Digital
-
-> "Calm under pressure, and he doesn't just close tickets — he understands the *why* behind an attack chain before writing it up."
-> — SOC Engineer, colleague, Investis Digital
-
-<br/>
-
-## 07 — Currently
-
-<!--INVESTIGATING:START-->
-🔎 Nothing set yet — trigger the `update-investigating` workflow to set this line.
-<!--INVESTIGATING:END-->
-
-<br/>
-
-## 08 — Field Note
-
-<!--CVE:START-->
-🛰️ **CVE-2026-56290** — The Joomla extension Page Builder CK is vulnerable to an unauthenticated arbitrary file upload that allows uploading executable files and leads to full RCE.  
-[Details](https://nvd.nist.gov/vuln/detail/CVE-2026-56290)
-<!--CVE:END-->
-
-<br/>
-
-## 09 — Latest Writing
-
-<!--BLOG-POST-LIST:START-->
-_Not yet populated — will populate automatically once your Medium RSS feed has posts._
-<!--BLOG-POST-LIST:END-->
-
-<br/>
-
-## 10 — Activity
+## 06 — Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Sec&theme=github-compact&hide_border=true&bg_color=0d1012&color=4dd4e8&line=4dd4e8&point=eef2f4" width="100%"/>
